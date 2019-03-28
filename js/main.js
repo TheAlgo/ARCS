@@ -5,7 +5,7 @@ $(function () {
 			"A PRODUCT FROM TEAM JUGAAD",
 			"PIRATED ?",
 			"NEED CREDIBILITY ?",
-			"WE HAVE YOU BACK.^1000 OPENART"
+			"WE HAVE YOU BACK.^1000 DataS"
 		],
 		stringsElement: null,
 		typeSpeed: 30,
